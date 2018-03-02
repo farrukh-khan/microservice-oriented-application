@@ -1,0 +1,13 @@
+D:\github\microservice\demo6\dotnet\Services\Order\bin\Debug\netcoreapp2.0\Order.deps.json
+D:\github\microservice\demo6\dotnet\Services\Order\bin\Debug\netcoreapp2.0\Order.runtimeconfig.json
+D:\github\microservice\demo6\dotnet\Services\Order\bin\Debug\netcoreapp2.0\Order.runtimeconfig.dev.json
+D:\github\microservice\demo6\dotnet\Services\Order\bin\Debug\netcoreapp2.0\Order.dll
+D:\github\microservice\demo6\dotnet\Services\Order\bin\Debug\netcoreapp2.0\Order.pdb
+D:\github\microservice\demo6\dotnet\Services\Order\bin\Debug\netcoreapp2.0\Common.dll
+D:\github\microservice\demo6\dotnet\Services\Order\bin\Debug\netcoreapp2.0\Common.pdb
+D:\github\microservice\demo6\dotnet\Services\Order\obj\Debug\netcoreapp2.0\Order.csprojResolveAssemblyReference.cache
+D:\github\microservice\demo6\dotnet\Services\Order\obj\Debug\netcoreapp2.0\Order.csproj.CoreCompileInputs.cache
+D:\github\microservice\demo6\dotnet\Services\Order\obj\Debug\netcoreapp2.0\Order.AssemblyInfoInputs.cache
+D:\github\microservice\demo6\dotnet\Services\Order\obj\Debug\netcoreapp2.0\Order.AssemblyInfo.cs
+D:\github\microservice\demo6\dotnet\Services\Order\obj\Debug\netcoreapp2.0\Order.dll
+D:\github\microservice\demo6\dotnet\Services\Order\obj\Debug\netcoreapp2.0\Order.pdb

@@ -1,0 +1,9 @@
+D:\github\microservice\demo6\dotnet\Services\Common\bin\Debug\netcoreapp2.0\Common.deps.json
+D:\github\microservice\demo6\dotnet\Services\Common\bin\Debug\netcoreapp2.0\Common.dll
+D:\github\microservice\demo6\dotnet\Services\Common\bin\Debug\netcoreapp2.0\Common.pdb
+D:\github\microservice\demo6\dotnet\Services\Common\obj\Debug\netcoreapp2.0\Common.csprojResolveAssemblyReference.cache
+D:\github\microservice\demo6\dotnet\Services\Common\obj\Debug\netcoreapp2.0\Common.csproj.CoreCompileInputs.cache
+D:\github\microservice\demo6\dotnet\Services\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfoInputs.cache
+D:\github\microservice\demo6\dotnet\Services\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfo.cs
+D:\github\microservice\demo6\dotnet\Services\Common\obj\Debug\netcoreapp2.0\Common.dll
+D:\github\microservice\demo6\dotnet\Services\Common\obj\Debug\netcoreapp2.0\Common.pdb
